@@ -8,5 +8,5 @@ Run 'GenerateTestData.py' with your desired setting (e.g. number of objects, noi
 Run 'Inference.py'.
 
 # To evaluate
--'OurApproach.m' evaluate the performance of our method.
--'Multi_RANSAC' evaluate the performance of sequential RANSAC.
+- 'OurApproach.m' evaluate the performance of our method.
+- 'Multi_RANSAC' evaluate the performance of sequential RANSAC.
