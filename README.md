@@ -2,7 +2,7 @@
 
 Demo for the ICPR'20 paper "[Learning To Find Good Correspondences Of Multiple Objects](https://inside.mines.edu/~youyexie/paper/WACV2018.pdf)"
 
-   <img src='Fig/motivation1.jpg' height=500>
+   <img src='Fig/motivation1.jpg' width=400>
    
    
 
