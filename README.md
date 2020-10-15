@@ -1,6 +1,6 @@
 # Learning To Find Good Correspondences Of Multiple Objects
 
-Demo for the ICPR'20 paper "[Learning To Find Good Correspondences Of Multiple Objects]"
+Demo for the ICPR'20 paper "Learning To Find Good Correspondences Of Multiple Objects"
 
    <img src='Fig/motivation1.jpg' width=500>
    
