@@ -28,7 +28,7 @@ numBlocks = 20
 
 # loss function parameters
 alpha1 = 1
-alpha2 = 1;#2
+alpha2 = 2
 
 
 # dataset parameters
