@@ -5,4 +5,4 @@ Simply run 'Match15.m' and 'Match76.m'.
 Run 'FaceClassifier\train.py'
 
 # To inference
-Run 'Inference.py' in folder 'FaceClassifier'
+Run 'FaceClassifier\Inference.py'
