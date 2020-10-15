@@ -2,9 +2,9 @@
 
 Demo for the ICPR'20 paper "[Learning To Find Good Correspondences Of Multiple Objects](https://inside.mines.edu/~youyexie/paper/WACV2018.pdf)"
 
-   <img src='Fig/motivation1.png' width=800>
+   <img src='Fig/motivation1.jpg' width=800>
    
-    <img src='Fig/motivation2.png' width=800>
+   <img src='Fig/motivation2.png' width=800>
 
 # Abstract
 Given a set of 3D to 2D putative matches, labeling the correspondences as inliers or outliers plays a critical role in a wide range of computer vision applications including the Perspective-n-Point (PnP) and object recognition. In this paper, we study a more generalized problem which allows the matches to belong to multiple objects with distinct poses. We propose a deep architecture to simultaneously label the correspondences as inliers or outliers and classify the inliers into multiple objects. Specifically, we discretize the 3D rotation space into twenty convex cones based on the facets of a regular icosahedron. For each facet, a facet classifier is trained to predict the probability
