@@ -1,4 +1,4 @@
-# To train your own network (optional)
+# To train your own network (a pre-trained network is provided)
 Run 'FaceClassifier\train.py'
 
 # To generate the testing dataset
